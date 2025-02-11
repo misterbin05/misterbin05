@@ -16,11 +16,12 @@
 - 🔭 Tôi đang tìm kiếm cơ hội thực tập về Java Web Backend.
 - ⚡ Tôi yêu thích thể thao, đặc biệt là gym.
 <br>
+
 ---
 
+<details>
 <summary>
-✨ Công nghệ đang sử dụng:
-</summary>
+✨ Công nghệ đang sử dụng:</summary>
    <br>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://spring.io/projects/spring-boot" target="_blank"><img width="30" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/spring.svg"/></a></code>
@@ -31,13 +32,14 @@
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
 </details>
 <br>
-<br>
+
+<details>
 <summary>
- 🌱 Mong đợi được học hỏi:
-</summary>
+🌱 Mong đợi được học hỏi:</summary>
    <br>
 <code><a href="https://angular.io/" target="_blank"><img width="30" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/angular-icon.svg"/></a></code>
 <code><a href="https://reactnative.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
+</details>
 <br>
 
 ---
