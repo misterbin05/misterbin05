@@ -16,10 +16,7 @@
 - 🔭 Tôi đang tìm kiếm cơ hội thực tập về Java Web Backend.
 - ⚡ Tôi yêu thích thể thao, đặc biệt là gym.
 <br>
-
 ---
-
-
 <summary>
   ✨ Công nghệ đang sử dụng:
 </summary>
@@ -31,7 +28,6 @@
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png?20210507000024"></a></code>
-
 <br>
 <br>
 <summary>
