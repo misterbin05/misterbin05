@@ -19,7 +19,7 @@
 ---
 
 <summary>
-  ✨ Tech stack currently using:
+✨ Công nghệ đang sử dụng:
 </summary>
    <br>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
@@ -33,7 +33,7 @@
 <br>
 <br>
 <summary>
-  🌱 Looking forward to learn:
+ 🌱 Mong đợi được học hỏi:
 </summary>
    <br>
 <code><a href="https://angular.io/" target="_blank"><img width="30" src="https://github.com/leungwensen/svg-icon/raw/master/dist/svg/logos/angular-icon.svg"/></a></code>
