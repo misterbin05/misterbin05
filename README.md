@@ -44,6 +44,7 @@
 <br>
 
 ---
+<details open="">
 
 <summary>
  📔 GitHub Stats:
@@ -67,3 +68,6 @@
   
 <p align="right">Created with 🧡 by <a href="https://github.com/misterbin05">Anh Vu</a></p>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=AnhVu&label=Profile%20views&color=0e75b6&style=flat"/></p>
+</details>
+
+
