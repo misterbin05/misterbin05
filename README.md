@@ -45,9 +45,9 @@
 ---
 <details open="">
 
-<summary>
+
  📔 GitHub Stats:
-</summary>
+
 <br>
 
 <img class="cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Mèo chạy">
@@ -69,3 +69,4 @@
 <p align="right"><img src="https://komarev.com/ghpvc/?username=AnhVu&label=Profile%20views&color=0e75b6&style=flat"/></p>
 
 
+</details>
