@@ -18,9 +18,8 @@
 <br>
 ---
 
-<details>
-<summary>
-  <summary>✨ Công nghệ đang sử dụng:</summary>
+<details
+  ✨ Công nghệ đang sử dụng:
 
    <br>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
